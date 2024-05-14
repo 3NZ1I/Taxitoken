@@ -1,0 +1,25 @@
+{
+  "name": "TAXI",
+  "symbol": "TAXI",
+  "uri": "https://raw.githubusercontent.com/3NZ1I/Taxitoken/main/TAXI_LOGO.png",
+  "seller_fee_basis_points": 500,
+  "fee_recipient": "841ixZSeFLvfN9o2ZQFhuyKbLJU5VVVh1GhP4uoW7c3u",
+  "seller_fee_collection_address": "841ixZSeFLvfN9o2ZQFhuyKbLJU5VVVh1GhP4uoW7c3u",
+  "image": "https://raw.githubusercontent.com/3NZ1I/Taxitoken/main/TAXI_LOGO.png",
+  "seller_fee_burn_address": null,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://example.com/token/1/file",
+        "type": "tAXI TOKIN"
+      }
+    ],
+    "category": "digital",
+    "creators": [
+      {
+        "address": "841ixZSeFLvfN9o2ZQFhuyKbLJU5VVVh1GhP4uoW7c3u",
+        "share": 500000000
+      }
+    ]
+  }
+}
